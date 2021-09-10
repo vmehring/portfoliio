@@ -1,0 +1,34 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "my portfolio",
+  "main": "index.js",
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "gulp-cli": "^2.3.0",
+    "gulp-dart-sass": "^1.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vmehring/portfolio.git"
+  },
+  "keywords": [
+    "landscape",
+    "design",
+    "ecological",
+    "restoration",
+    "native",
+    "plants",
+    "ecosystems"
+  ],
+  "author": "Valerie Mehring",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vmehring/portfolio/issues"
+  },
+  "homepage": "https://github.com/vmehring/portfolio#readme"
+}
